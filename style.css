@@ -1,0 +1,71 @@
+body,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+h1{
+	font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 80px;
+}
+
+#content{
+	min-height: 500px;
+	}
+
+#banner-image{
+	 
+	  min-height: 610px;
+	 text-align: center;      
+	 color: #f8f8f8;      
+	 background: url(img/intro-bg_1.jpg) no-repeat center center;      
+	 background-size: cover; 
+}
+
+
+.banner-content{  
+	position: center;     
+	padding-top: 4%;      
+	padding-bottom: 4%;
+	margin-top: 6%;      
+	margin-bottom: 6%;     
+	background-color: rgba(0, 0, 0, 0.7);      
+	max-width: 1170px; 
+
+}
+
+footer{
+	  position: absolute;
+	  text-align: center;    
+	   background-color: #101010;      
+	   color:#9d9d9d;      
+	   bottom: 0;      
+	   width: 100%; 
+
+ 
+}
+.profooter{
+	position: relative;
+	  text-align: center;    
+	   background-color: #101010;      
+	   color:#9d9d9d;      
+	   bottom: 0;      
+	   width: 100%; 
+}
+.row_style{
+                margin-top: 100px;
+            }
+
+.jumbotron{
+	margin-top: 100px;
+}
+
+.remove_item_link{
+    color:#0000ff;
+}
+
+
+
